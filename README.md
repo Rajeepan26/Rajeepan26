@@ -1,16 +1,12 @@
-## Hi there 👋
+# 👋 Hi, I'm Rajeepan  
 
-<!--
-**Rajeepan26/Rajeepan26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 4th-year Software Development undergraduate at Uva Wellassa University of Sri Lanka  
+💻 Growing full-stack developer | MERN & Django enthusiast  
+🌐 Passionate about building responsive and user-friendly applications  
+🛠️ Languages: C, Java, Python, PHP, SQL, JavaScript  
+⚡ Frameworks: React.js, Next.js, Node.js, Express.js, Django  
+🗄️ Databases: MongoDB, MySQL, PostgreSQL  
+🎨 Tools: Git, Postman, Figma, Canva  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently improving my **web development & software engineering skills**.  
+📌 Check out my projects below 👇
